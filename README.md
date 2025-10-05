@@ -20,3 +20,7 @@ It helps users discover nearby cafes with an **interactive map** and **location 
    ```bash
    git clone https://github.com/07abhishake/Near-By-Cafe
    cd cafe
+   npm install
+   npm run dev
+   npm test
+
